@@ -543,7 +543,7 @@ img {
 }
 
 .team-soc-icon {
-    fill: var(--team-item-text);
+    fill: var(--team-soc-icon)
 }
 
 .team-soc-link:hover,
